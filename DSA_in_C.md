@@ -1,20 +1,20 @@
-String-comparison: https://onlinegdb.com/MUAWHjaHO
-duplictate-non-duplicate-comparison: https://onlinegdb.com/1S5gVDhNd
-max_product-array: https://onlinegdb.com/8ckMLcBcP
-symmetric-pair-array: https://onlinegdb.com/PxLtOff4a
-suset-of array: https://onlinegdb.com/tNUIZiljx
-equillibrium-index-in-array: https://onlinegdb.com/sOJio-jvW4
-right-rotation-of array: https://onlinegdb.com/m1HyR8ee_
-left-rotation-of array: https://onlinegdb.com/LrhTBhy7i
-increasing-decreasing-in-array: https://onlinegdb.com/q2u8O7BH6
-median-of-array: https://onlinegdb.com/REZSJ2C1R
-removedup-sorted-array: https://onlinegdb.com/fpleFjeUK
-second-smallest-largest-array: https://onlinegdb.com/NFOZj-4oq
-bubble-sort: https://onlinegdb.com/QvbeANG_I
-binary-search: https://onlinegdb.com/iF2hqaE94
-anagram: https://onlinegdb.com/gobhQThzZ
-hashmap-array: https://onlinegdb.com/2ahYCQdDo
-transposition-matrix: https://onlinegdb.com/DIocXFl9i
-vowel-mismatch: https://onlinegdb.com/xvncrmR5W
-decimal-to-hexadecimal: https://onlinegdb.com/cbLWVoh30
-binaary-to-decimal: https://onlinegdb.com/9n2D9hHw_ 
+- String-comparison: https://onlinegdb.com/MUAWHjaHO
+- duplictate-non-duplicate-comparison: https://onlinegdb.com/1S5gVDhNd
+- max_product-array: https://onlinegdb.com/8ckMLcBcP
+- symmetric-pair-array: https://onlinegdb.com/PxLtOff4a
+- suset-of array: https://onlinegdb.com/tNUIZiljx
+- equillibrium-index-in-array: https://onlinegdb.com/sOJio-jvW4
+- right-rotation-of array: https://onlinegdb.com/m1HyR8ee_
+- left-rotation-of array: https://onlinegdb.com/LrhTBhy7i
+- increasing-decreasing-in-array: https://onlinegdb.com/q2u8O7BH6
+- median-of-array: https://onlinegdb.com/REZSJ2C1R
+- removedup-sorted-array: https://onlinegdb.com/fpleFjeUK
+- second-smallest-largest-array: https://onlinegdb.com/NFOZj-4oq
+- bubble-sort: https://onlinegdb.com/QvbeANG_I
+- binary-search: https://onlinegdb.com/iF2hqaE94
+- anagram: https://onlinegdb.com/gobhQThzZ
+- hashmap-array: https://onlinegdb.com/2ahYCQdDo
+- transposition-matrix: https://onlinegdb.com/DIocXFl9i
+- vowel-mismatch: https://onlinegdb.com/xvncrmR5W
+- decimal-to-hexadecimal: https://onlinegdb.com/cbLWVoh30
+- binaary-to-decimal: https://onlinegdb.com/9n2D9hHw_ 
